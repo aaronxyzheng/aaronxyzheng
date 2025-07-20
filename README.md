@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Aaron
 
-🎯 13 y/o aspiring software engineer and entrepreneur
-📍 Based in New York | Freshman in high school | Christian
-🛠️ Currently Learning Java, API's
-📚 Currently building: A terminal Weather app 
-💡 Interests: Programming, fitness, business, productivity,
+🎯 13 y/o aspiring software engineer and entrepreneur  
+📍 Based in New York | Freshman in high school | Christian  
+🛠️ Currently Learning Java, API's  
+📚 Currently building: A terminal Weather app   
+💡 Interests: Programming, fitness, business, productivity,  
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 📈 Goals
 - Create a Business
-- Get a girlfriend xD
+- Get a girlfriend 😂
 - Get Jacked
 
 ---
