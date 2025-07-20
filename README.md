@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Aaron
 
-<!--
-**aaronxyzheng/aaronxyzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 13 y/o aspiring software engineer and entrepreneur
+📍 Based in New York | Freshman in high school | Christian
+🛠️ Currently Learning Java, API's
+📚 Currently building: A terminal Weather app 
+💡 Interests: Programming, fitness, business, productivity,
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Stuff I'm Interested In
+- Java
+- Weightlifting + Calisthenics 💪
+- Investing
+- Piano + Guitar
+- Reading my Bible
+
+---
+
+## 🚀 Projects
+| Project        | Description                              | Tech      |
+|----------------|------------------------------------------|-----------|
+| 🕹️ Tic-Tac-Toe | Java console game                        | Java      |
+| 🔴 Connect 4   | 2-player logic-based grid game            | Java      |
+| 🌦️ Weather App | Real-time weather + city-to-coords API   | Java, API |
+
+---
+
+## 📈 Goals
+- Create a Business
+- Get a girlfriend xD
+- Get Jacked
+
+---
+
+## 📫 Connect with me
+- 📍 GitHub: [@aaronzheng](https://github.com/YOUR_USERNAME)
+
+🧠 Always learning. Always improving. No excuses.
