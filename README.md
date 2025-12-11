@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aaron
 
-🎯 13 y/o aspiring software engineer and entrepreneur  
+🎯 14 y/o aspiring software engineer and entrepreneur  
 📍 Based in New York | Freshman in high school | Christian  
 🛠️ Currently Learning Java, API's  
 📚 Currently building: A terminal Weather app   
@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 Stuff I'm Interested In
-- Java
+- Java, Web Dev
 - Weightlifting + Calisthenics 💪
 - Investing
 - Piano + Guitar
