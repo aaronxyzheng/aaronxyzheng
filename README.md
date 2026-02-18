@@ -2,6 +2,11 @@
 
 <p>Welcome to my page! I am a 14 year old high schooler located in New York.</p>
 
+<p>
+
+  Besides coding I am interested in/like finance, reading, lifting weights.
+</p>
+
 <h3>Stuff I use</h3>
 <p>
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
