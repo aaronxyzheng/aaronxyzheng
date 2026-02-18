@@ -19,6 +19,22 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 </p>
 
+<h3>Projects</h3>
+<table>
+  <tr>
+    <td><a href="https://aaronxyzheng.com"><b>Portfolio</b></a></td>
+    <td>My personal portfolio site</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aaronxyzheng/TkinterWordle"><b>Wordle</b></a></td>
+    <td>NY Times Wordle but made with Tkinter</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aaronxyzheng/odin-battleship"><b>Battleship</b></a></td>
+    <td>It's legit just battleship.</td>
+  </tr>
+</table>
+
 <h3>Find me here:</h3>
 <p>
   <a href="https://github.com/aaronxyzheng" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
