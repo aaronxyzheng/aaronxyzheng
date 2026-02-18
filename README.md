@@ -5,8 +5,8 @@
 <h3>Stuff I use</h3>
 <p>
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-43853d?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
