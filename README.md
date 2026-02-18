@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/8270-blob-dance" width="30"/> Sup! Nice 2 meet u. </h1>
+<h1><img src="./blob-dance.gif" width="30"/> Sup! Nice 2 meet u. </h1>
 
 <p>Welcome to my page! I am a 14 year old high schooler located in New York.</p>
 
